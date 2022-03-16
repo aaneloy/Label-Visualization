@@ -13,7 +13,7 @@ Python Script to visualization labels, examples and instances of **MNIST** and *
 Tensorflow MNIST: https://www.tensorflow.org/datasets/catalog/mnist
 
 ```python
-Fashion MNIST Dataset Shape:
+MNIST Dataset Shape:
 X_train: (60000, 28, 28)
 Y_train: (60000,)
 X_test:  (10000, 28, 28)

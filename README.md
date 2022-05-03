@@ -10,7 +10,7 @@ Python Script to visualization labels, examples and instances of **MNIST** and *
 
 ## MNIST
 
-[Dataset](https://www.tensorflow.org/datasets/catalog/mnist)
+[MNIST Dataset](https://www.tensorflow.org/datasets/catalog/mnist)
 
 [Notebook](https://github.com/aaneloy/Label-Visualization/blob/main/Notebooks/FASHION_MNIST.ipynb) 
 
@@ -30,7 +30,7 @@ Unique labels :  [0 1 2 3 4 5 6 7 8 9]
 
 ## Fashion_MNIST
 
-[Dataset](https://www.tensorflow.org/datasets/catalog/fashion_mnist)
+[Fashion_MNIST Dataset](https://www.tensorflow.org/datasets/catalog/fashion_mnist)
 
 [Notebook](https://github.com/aaneloy/Label-Visualization/blob/main/Notebooks/MNIST.ipynb)
 
